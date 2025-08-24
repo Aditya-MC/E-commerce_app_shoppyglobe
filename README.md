@@ -26,7 +26,7 @@ It provides a smooth shopping experience, dynamic product handling, and an elega
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js, React Router, Tailwind CSS (if used)  
+- **Frontend:** React.js, React Router,CSS
 - **Deployment:** GitHub Pages  
 - **Version Control:** Git & GitHub
 
