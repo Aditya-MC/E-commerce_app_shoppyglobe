@@ -1,12 +1,54 @@
-# React + Vite
+# 🛒 ShoppyGlobe - E-commerce Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ShoppyGlobe is a modern and fully responsive **E-commerce web application** built using **React.js**.  
+It provides a smooth shopping experience, dynamic product handling, and an elegant UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+🔗 [ShoppyGlobe Live](https://aditya-mc.github.io/E-commerce_app_shoppyglobe/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🗂️ GitHub Repository  
+🔗 [E-commerce_app_shoppyglobe](https://github.com/Aditya-MC/E-commerce_app_shoppyglobe)
+
+---
+
+## ✨ Features  
+- 🛍️ Browse products with a clean UI  
+- 🔍 Search & filter products  
+- 🛒 Add to cart, remove items & manage cart dynamically  
+- 💳 Checkout functionality  
+- 📱 Fully responsive design  
+- ⚡ Smooth navigation using React Router
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, React Router, Tailwind CSS (if used)  
+- **Deployment:** GitHub Pages  
+- **Version Control:** Git & GitHub
+
+---
+
+## 📦 Installation & Setup  
+
+Follow these steps to run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Aditya-MC/E-commerce_app_shoppyglobe.git
+
+# 2. Navigate to the project folder
+cd E-commerce_app_shoppyglobe
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+👨‍💻 Author
+
+Aditya MC
